@@ -84,3 +84,5 @@ modules/logic/logic.iml
 modules/logic/src/main/resources/
 modules/logic/src/test/
 modules/modules.iml
+/aggregate/war/war.iml
+aggregate/war/war.iml
